@@ -10,3 +10,5 @@ Here you find all my notebooks published in kaggle :
 4-https://www.kaggle.com/naim99/disaster-tweets-multinomialnb
 
 5-https://www.kaggle.com/naim99/image-segmentation-k-means-random-forest
+
+6-https://www.kaggle.com/naim99/basic-plottings-pandas
