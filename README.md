@@ -12,3 +12,5 @@ Here you find all my notebooks published in kaggle :
 5-https://www.kaggle.com/naim99/image-segmentation-k-means-random-forest
 
 6-https://www.kaggle.com/naim99/basic-plottings-pandas
+
+7-https://www.kaggle.com/naim99/sentiment-analysis-svm-multinomail-nb
